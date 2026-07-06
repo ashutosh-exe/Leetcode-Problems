@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
