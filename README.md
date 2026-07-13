@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0046-permutations) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
