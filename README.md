@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
