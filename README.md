@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
