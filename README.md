@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
