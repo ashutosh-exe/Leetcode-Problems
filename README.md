@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
