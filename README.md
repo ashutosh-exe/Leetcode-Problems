@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0070-climbing-stairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 ## Backtracking
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
