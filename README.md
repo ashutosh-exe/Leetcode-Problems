@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -239,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
