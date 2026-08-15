@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
