@@ -270,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
