@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -301,4 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
