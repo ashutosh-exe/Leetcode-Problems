@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1773-count-items-matching-a-rule](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
