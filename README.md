@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
