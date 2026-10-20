@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
