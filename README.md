@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 ## Trie
 |  |
 | ------- |
