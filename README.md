@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0070-climbing-stairs) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 ## Trie
