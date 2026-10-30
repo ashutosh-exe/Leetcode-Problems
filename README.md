@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1773-count-items-matching-a-rule](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Sorting
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
