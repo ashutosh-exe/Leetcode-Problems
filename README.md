@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
