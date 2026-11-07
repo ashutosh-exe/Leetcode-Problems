@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -548,4 +550,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
