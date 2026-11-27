@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ashutosh-exe/Leetcode-Problems/tree/master/0078-subsets) |
 ## Number Theory
 |  |
 | ------- |
